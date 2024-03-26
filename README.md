@@ -3,18 +3,17 @@
 ***
 
 ## Características Principales
+[Index](https://raw.githubusercontent.com/RocioSosa24/MyShop/main/src/main/resources/static/img/index.jpg): Muestra una vista general del ecommerce, destacando características como categorías, productos recientes y sponsors.
 
-Index: Muestra una vista general del ecommerce, destacando características como categorías, productos recientes y sponsors.
+[Contacto](https://raw.githubusercontent.com/RocioSosa24/MyShop/main/src/main/resources/static/img/contacto.jpg): Permite a los usuarios enviar un correo por Gmail al equipo del ecommerce a través de un formulario de contacto.
 
-Contacto: Permite a los usuarios contactarse por Gmail con el equipo del ecommerce a través de un formulario de contacto.
+[Carrito de Compras](https://raw.githubusercontent.com/RocioSosa24/MyShop/main/src/main/resources/static/img/carrito.jpg): Permite a los usuarios ver los productos seleccionados y gestionar el contenido de su carrito de compras.
 
-Carrito de Compras: Permite a los usuarios ver los productos seleccionados y gestionar el contenido de su carrito de compras.
-
-Tienda: Presenta todos los productos disponibles en el ecommerce (Obtenidos desde la base de datos).
+[Tienda](https://raw.githubusercontent.com/RocioSosa24/MyShop/main/src/main/resources/static/img/tienda.jpg): Presenta todos los productos disponibles en el ecommerce (Obtenidos desde la base de datos).
 Ofrece funcionalidades de filtrado para permitir a los usuarios encontrar productos específicos según el precio, categoría y talle.
 Permite agregar productos seleccionados al carrito de compras directamente desde la vista de tienda.
 
-Detalles del Producto: Permite a los usuarios ver información detallada sobre un producto específico.
+[Detalles del Producto](https://raw.githubusercontent.com/RocioSosa24/MyShop/main/src/main/resources/static/img/detalle.jpg): Permite a los usuarios ver información detallada sobre un producto específico.
 
 ***
 
