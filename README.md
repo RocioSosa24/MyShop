@@ -3,7 +3,9 @@
 ***
 
 ## Características Principales
-[Index](https://raw.githubusercontent.com/RocioSosa24/MyShop/main/src/main/resources/static/img/index.jpg): Muestra una vista general del ecommerce, destacando características como categorías, productos recientes y sponsors.
+#### Hacé clic en los nombres de las vistas a continuación para previsualizarlas 🔍👀 
+
+[Index](https://raw.githubusercontent.com/RocioSosa24/MyShop/main/src/main/resources/static/img/index.jpg): Muestra una vista general del ecommerce, destacando características como categorías, productos recientes y sponsors. 
 
 [Contacto](https://raw.githubusercontent.com/RocioSosa24/MyShop/main/src/main/resources/static/img/contacto.jpg): Permite a los usuarios enviar un correo por Gmail al equipo del ecommerce a través de un formulario de contacto.
 
